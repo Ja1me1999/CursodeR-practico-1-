@@ -1,14 +1,14 @@
 {
-    "id": "0826913A",
-    "path": "~/GitHub/CursodeR-practico-1-/primer guardado.qmd",
-    "project_path": "primer guardado.qmd",
+    "id": "EFA0D868",
+    "path": null,
+    "project_path": null,
     "type": "quarto_markdown",
-    "hash": "72913584",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
-    "created": 1710876815840.0,
+    "dirty": true,
+    "created": 1710879324177.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "176:0"
+        "rmdVisualModeLocation": "52:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710882544,
-    "encoding": "UTF-8",
+    "lastKnownWriteTime": 8462090394147320431,
+    "encoding": "",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710882544107,
+    "last_content_update": 1710879934309,
     "read_only": false,
     "read_only_alternatives": []
 }
